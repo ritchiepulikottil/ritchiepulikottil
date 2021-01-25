@@ -10,7 +10,7 @@
 
 
 <a href="https://ritchiepulikottil.medium.com/">
-  <img src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/2457903031566470610-512.png" alt="Ritchie Pulikottil's Medium Page" height="25" width="31">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="Ritchie Pulikottil's Medium Page" height="25" width="31">
 </a>
 
 <a href="https://www.linkedin.com/in/ritchie-pulikottil-6876341aa">

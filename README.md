@@ -59,7 +59,6 @@
 [<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://ritchiepulikottil.blogspot.com/)
 [<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ritchiepulikottil)
 
-![](https://komarev.com/ghpvc/?username=ritchiepulikottil&color=green) <br><br>
 
 
 

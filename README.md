@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy👋 I'm Ritchie Pulikottil <img src= "https://static.thenounproject.com/png/118687-200.png" height="20" width="20" alt="Scroll down!"/> </h1><br>
+<h1 align="center">Ahoy👋 I'm Ritchie Pulikottil <img src= "https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="20" width="20" alt="Scroll down!"/> </h1><br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/><br>

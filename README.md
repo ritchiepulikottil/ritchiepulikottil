@@ -172,7 +172,7 @@ PlayTestCloud was created to help the game developers learn more about what play
 - [Operating System Basics](https://levelup.gitconnected.com/operating-system-basics-ad8d9d5de2a0)
 - [CSS Basics for Absolute Beginners](https://medium.com/swlh/css-basics-for-absolute-beginners-12780a56c8bf)
 - [HTML Basics for Absolute Beginners](https://medium.com/swlh/html-basics-for-absolute-beginners-c0172b3d9b7c)
-
+- [View more...](https://ritchiepulikottil.medium.com/)
 
 
 

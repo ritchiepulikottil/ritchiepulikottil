@@ -7,12 +7,19 @@
 <h2 align="center"> I like to create🔨</h2>
 <h3 align="center"> My Inventory👇</h3><br>
 <p align="center">
- <img height="60" width="60" src= "https://cloudacademy.com/wp-content/uploads/2014/04/icon_cloud_192pt_clr.png" />
  <img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
- <img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" />
- <img height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />
- <img height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
+ <img height="60" width="47" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+ <img height="60" width="60" src= "https://cloudacademy.com/wp-content/uploads/2014/04/icon_cloud_192pt_clr.png" />
+ <img height="60" width="60" src= "https://swimburger.net/media/ppnn3pcl/azure.png" />
+ <img height="60" width="60" src= "https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" />
+ <img height="60" width="60" src= "https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
+ <img height="60" width="60" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
+ <img height="60" width="60" src= "https://github.gallerycdn.vsassets.io/extensions/github/vscode-codeql/1.8.4/1683112396132/Microsoft.VisualStudio.Services.Icons.Default" />
+ <img height="60" width="60" src= "https://www.svgrepo.com/show/354365/sonarqube.svg" />
+ <img height="60" width="60" src= "https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2b63d3a830c56aeafcc618_Veracode_logo.png" />
  <img height="60" width="90" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
+
+ <img height="60" width="60" src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" />
  <img height="60" width="95" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
  <img height="60" width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </p>
@@ -45,7 +52,10 @@ Interdepartmental competition to maximize innovation, and create novel products.
 <a href="https://drive.google.com/file/d/1oeZBfc8MfBcbc0iBlJ-BjsvK_-3IIqQl/view" target="_blank">(View Certificate)</a><br>
   
 ## Projects🚧 
-
+- [IBM WH - Phytel (Associated w/ Virtusa)](https://drive.google.com/file/d/1SrqFIxMRMeGJKBkj5IaMB2M_doeazQoM/view)
+- [Insite+ (Associated w/ Virtusa)](https://taplink.cc/insiteplus)
+- [TestGrade (Associated w/ Virtusa)](https://testgrade.herokuapp.com/)
+- [CertificateScape (Associated w/ Virtusa)](https://certificatescape.herokuapp.com/) 
 - [Data Legitimacy using ML (Capstone Project)](https://drive.google.com/file/d/1SrqFIxMRMeGJKBkj5IaMB2M_doeazQoM/view)
 - [Personal Expense Tracker (VMware Buildathon'21)](https://drive.google.com/file/d/1LVm9X8QpyMtSUrGgKoB2-wAcYLaywz6n/view?usp=sharing)
 - [JobPortal for the Disabled (Makeathon3077)](https://devfolio.co/submissions/jobportal-for-the-disabled-9be3)
@@ -73,6 +83,8 @@ IOT based system to reduce human-animal conflict.<Br>
   
 ## Certifications and Badges⭐
 - [Google Cloud - Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/3ba40cd4ed0ada387eab04c6068a5b60c9f2f9a2?order=updated_at%20DESC)
+- [HashiCorp - Terraform Associate](https://ritchiepulikottil.github.io/mnc.github.io/)
+- [Microsoft - AZ900](https://ritchiepulikottil.github.io/mnc.github.io/)
 - [IBM Cognitive Class - Cloud Essentials](https://courses.cognitiveclass.ai/certificates/dc15c89825164a3db111594d33733370)
 - [IBM - Data Science Professional Certificate](https://www.credly.com/badges/e30adbc8-1788-4cdf-b682-0fce65de1ac3/public_url)
 - [IBM Developer Skills Network - Cloud Core](https://www.credly.com/badges/31b383bd-ac35-4590-a0e5-fe313b1aea02/public_url)
@@ -87,7 +99,8 @@ IOT based system to reduce human-animal conflict.<Br>
 
   
 ## Experience💼 
-
+- <b> DevOps Engineer - IBM WH Phytel (Associated w/ Virtusa) </b><br>(Jan 2023 - Present)<br>
+  <a>https://www.merative.com/phytel-university/</a>  
 - <b> Associate Engineer - Virtusa </b><br>(May 2022 - Present)<br>
   <a>https://www.virtusa.com/</a>  
 - <b> Cloud Engineering Intern - Virtusa </b><br>(January 2022 - April 2022)<br>

@@ -31,26 +31,6 @@
 <p align=center >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritchiepulikottil" />
 </p>
-
-## Achievements🏆
-- <b>Makeathon 2021-Winner</b> (March 2021)<br>
-Makeathon3077- is a 36-hour hackathon for students to challenge their technical boundaries by learning the latest technologies,
-procuring solutions, and developing fun projects. The event intends to bring together astute and industrious students from
-various colleges for a ravishing technical journey consisting of pre-event workshops and boot camp.<br>
-<a href="https://devfolio.co/submissions/jobportal-for-the-disabled-9be3">(View Submission)</a><br>
-<a href="https://drive.google.com/file/d/1ZN9si1l24roHCn6Bxow3iTzj-XvRxDSw/view">(View Certificate)</a>
-  
-- <b>Hackoverflow - Finalist</b> (February 2020)<br>
-National Level 24-Hour Hackathon.<br>
-<a href="https://drive.google.com/file/d/15yDZ2mUEnH7cI-JE-WQV7Ngc2DEm-WSE/view" target="_blank">(View Certificate)</a>
-
-- <b>Innovative Project Cell</b><br>
-Interdepartmental competition to maximize innovation, and create novel products. <br>
-<b>2019:</b> Animal Intrusion Detection System<br>
-<b>2020:</b> Covid19 Tweet Analysis<br>
-<a href="https://github.com/ritchiepulikottil/iot-based-system-to-repel-elephants" target="_blank">(View Submission)</a><Br>
-<a href="https://drive.google.com/file/d/1oeZBfc8MfBcbc0iBlJ-BjsvK_-3IIqQl/view" target="_blank">(View Certificate)</a><br>
-  
 ## Projects🚧 
 - [IBM WH - Phytel (Associated w/ Virtusa)](https://drive.google.com/file/d/1SrqFIxMRMeGJKBkj5IaMB2M_doeazQoM/view)
 - [Insite+ (Associated w/ Virtusa)](https://taplink.cc/insiteplus)
@@ -73,6 +53,26 @@ Interdepartmental competition to maximize innovation, and create novel products.
 - [Stocks Analysis](https://www.kaggle.com/ritchiepulikottil/testing2-extended)
 - [English Dictionary](https://github.com/ritchiepulikottil/english_dictionary)
 - [Online Doodle](http://ritchiepulikottil.pythonanywhere.com/)
+## Achievements🏆
+- <b>Makeathon 2021-Winner</b> (March 2021)<br>
+Makeathon3077- is a 36-hour hackathon for students to challenge their technical boundaries by learning the latest technologies,
+procuring solutions, and developing fun projects. The event intends to bring together astute and industrious students from
+various colleges for a ravishing technical journey consisting of pre-event workshops and boot camp.<br>
+<a href="https://devfolio.co/submissions/jobportal-for-the-disabled-9be3">(View Submission)</a><br>
+<a href="https://drive.google.com/file/d/1ZN9si1l24roHCn6Bxow3iTzj-XvRxDSw/view">(View Certificate)</a>
+  
+- <b>Hackoverflow - Finalist</b> (February 2020)<br>
+National Level 24-Hour Hackathon.<br>
+<a href="https://drive.google.com/file/d/15yDZ2mUEnH7cI-JE-WQV7Ngc2DEm-WSE/view" target="_blank">(View Certificate)</a>
+
+- <b>Innovative Project Cell</b><br>
+Interdepartmental competition to maximize innovation, and create novel products. <br>
+<b>2019:</b> Animal Intrusion Detection System<br>
+<b>2020:</b> Covid19 Tweet Analysis<br>
+<a href="https://github.com/ritchiepulikottil/iot-based-system-to-repel-elephants" target="_blank">(View Submission)</a><Br>
+<a href="https://drive.google.com/file/d/1oeZBfc8MfBcbc0iBlJ-BjsvK_-3IIqQl/view" target="_blank">(View Certificate)</a><br>
+  
+
 
 
 ## Publications📝

@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy👋 I'm Ritchie Pulikottil <img src= "https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="20" width="20" alt="Scroll down!"/> </h1><br>
+<h1 align="center">Hello👋 I'm Ritchie Pulikottil <img src= "https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="20" width="20" alt="Scroll down!"/> </h1><br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/><br>
@@ -24,15 +24,23 @@
  <img height="60" width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </p>
 
+<!--
 <p align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=ritchiepulikottil&show_icons=true&theme=flag-india&count_private=true" />
 </p>
 
-
+<!-- <p align=center >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritchiepulikottil" />
+</p>
+-->
 
 ## Projects🚧 
-- [IBM WH - Phytel (Associated w/ Virtusa)](https://drive.google.com/file/d/1SrqFIxMRMeGJKBkj5IaMB2M_doeazQoM/view)
-  I worked as a DevOps Engineer
+- [Major Healthcare Project - AstraZeneca](https://www.astrazeneca.com/)<br>
+I was part of the newly formed DaAiOps team at AstraZeneca, focusing on driving Cloud and DevOps initiatives across all projects, with a strong emphasis on Data and GenAI projects. Within the Ops team, my role was centered around automating processes, deploying robust monitoring solutions, and spearheading innovative proof-of-concept initiatives for leadership consideration. Additionally, I took responsibility for provisioning infrastructure and implementing advanced DevOps practices across both new and existing projects throughout AstraZeneca. In Data projects, my focus was on automating data loading, managing data engineering workflows, and establishing comprehensive monitoring and notification systems. For GenAI projects, I designed and implemented CI/CD pipelines to automate deployment activities. My primary technical tools included Python, AWS services, GitHub Actions, and CDK with TypeScript.
+- [Azure Migration Project - ExamWorks](https://www.examworks.com/)<br>
+I was a member of the Core DevOps team at ExamWorks, tasked with facilitating the client's migration from OnPrem VMware to Azure using AVS (Azure VMware Solution) and Azure Bicep, focusing on simplicity and cost-efficiency. My role encompassed two distinct phases, In the initial phase, I collaborated closely with the DevOps architect to develop Azure Bicep templates for the resources required in Azure for the migration. During the second phase, I worked closely with the AVS architect to create Low-Level Designs (LLDs) and High-Level Designs (HLDs), and to configure the cloud environment in preparation for migration using the Azure VMware Solution. My objective throughout was to ensure a seamless transition to Azure while optimizing costs and leveraging efficient deployment methodologies.
+- [Major Healthcare Product - IBM](https://www.ibm.com/consulting/healthcare-services)<br>
+  I was part of a very small DevOps team, and I served as a DevOps Developer. It was a healthcare product which served over 50 million patients worldwide and it had multiple modules within it, each module was in fact a standalone application. Initially managing 2 applications, my role encompassed a broad range of DevOps responsibilities. This included building CI/CD pipelines, monitoring, provisioning infrastructure, introducing innovations in the automation side, supporting developers during operational issues, participating in code reviews, ensuring code quality, and deploying changes across DEV, PREPROD, and collaborating with client-side engineers for PROD deployments. Over time, I expanded my responsibilities to oversee 5 applications seamlessly.
 - [Insite+ (Associated w/ Virtusa)](https://taplink.cc/insiteplus)
 - [TestGrade (Associated w/ Virtusa)](https://testgrade.herokuapp.com/)
 - [CertificateScape (Associated w/ Virtusa)](https://certificatescape.herokuapp.com/) 

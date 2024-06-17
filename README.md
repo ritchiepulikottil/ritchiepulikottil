@@ -28,12 +28,11 @@
  <img src="https://github-readme-stats.vercel.app/api?username=ritchiepulikottil&show_icons=true&theme=flag-india&count_private=true" />
 </p>
 
-<p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritchiepulikottil" />
-</p>
+
 
 ## Projects🚧 
 - [IBM WH - Phytel (Associated w/ Virtusa)](https://drive.google.com/file/d/1SrqFIxMRMeGJKBkj5IaMB2M_doeazQoM/view)
+  I worked as a DevOps Engineer
 - [Insite+ (Associated w/ Virtusa)](https://taplink.cc/insiteplus)
 - [TestGrade (Associated w/ Virtusa)](https://testgrade.herokuapp.com/)
 - [CertificateScape (Associated w/ Virtusa)](https://certificatescape.herokuapp.com/) 

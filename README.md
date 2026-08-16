@@ -27,7 +27,7 @@
 
 - 🛠️&nbsp; **Associate Consultant – Product Engineer** at **Infosys**, building **Cloudflexx** (self-service multi-cloud provisioning)
 - ☁️&nbsp; 4+ years across Cloud, DevOps, DataOps, and API development for healthcare, pharma, and consulting clients
-- 📜&nbsp; **AWS Certified Developer Associate**, **HashiCorp Terraform Associate**, **Google Cloud Associate Cloud Engineer**, Azure AZ-900/SC-900
+- 📜&nbsp; **AWS Certified Developer Associate**, **HashiCorp Terraform Associate**, **Google Cloud Associate Cloud Engineer**, etc.
 - 🏆&nbsp; Infosys Insta Award recipient (May 2026, Dec 2025) for client work on the EY engagement
 - ✍️&nbsp; Write technical content for **Towards Data Science** and **MLearning.ai**
 - 🚀&nbsp; Building **RIXSTO**

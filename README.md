@@ -88,10 +88,8 @@
 | Project | Description |
 |---|---|
 | **[RIXSTO](https://rixsto.in/)** | Multi-creator product storefront with custom affiliate tooling, built on Eleventy/Nunjucks |
-| **[JobPortal for the Disabled](https://devfolio.co/submissions/jobportal-for-the-disabled-9be3)** | 🏆 Makeathon 2021 winning submission |
-| **[Covid19 Tweet Analysis](https://levelup.gitconnected.com/covid19-tweet-analysis-with-source-code-e916e2871de6)** | Sentiment & trend analysis on pandemic-era tweet data |
-| **[Animal IDS](https://drive.google.com/file/d/1mYOr9OtbE81EH-eb5x_WapbngvwkGU3m/view)** | IoT-based system to reduce human-animal conflict |
-
+| **[Cloudflexx](https://www.ey.com/en_gl/services/technology/fabric-technology-acceleration-platform)** | Cloudflexx is a self-service cloud product with a suite of offerings for provisioning and managing cloud resources at EY |
+| **[JobPortal](https://devfolio.co/submissions/jobportal-for-the-disabled-9be3)** | Makeathon 2021 winning submission |
 <br/>
 
 <div align="center">

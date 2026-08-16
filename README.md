@@ -1,217 +1,109 @@
-<h1 align="center">Hello👋 I'm Ritchie Pulikottil <img src= "https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="20" width="20" alt="Scroll down!"/> </h1><br>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduOXu3DBfTazzaw/giphy.gif" alt="This Image never shows up, sigh!"/><br>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Ritchie%20Pulikottil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%2F%20DevOps%20%2F%20API%20Development&descAlignY=58&descSize=18" width="100%"/>
 
-<h2 align="center"> I like to create🔨</h2>
-<h3 align="center"> My Inventory👇</h3><br>
-<p align="center">
- <img height="60" width="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
- <img height="60" width="47" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
- <img height="60" width="60" src= "https://cloudacademy.com/wp-content/uploads/2014/04/icon_cloud_192pt_clr.png" />
- <img height="60" width="60" src= "https://swimburger.net/media/ppnn3pcl/azure.png" />
- <img height="60" width="60" src= "https://static-00.iconduck.com/assets.00/terraform-icon-452x512-ildgg5fd.png" />
- <img height="60" width="60" src= "https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" />
- <img height="60" width="60" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1280px-Groovy-logo.svg.png" />
- <img height="60" width="60" src= "https://github.gallerycdn.vsassets.io/extensions/github/vscode-codeql/1.8.4/1683112396132/Microsoft.VisualStudio.Services.Icons.Default" />
- <img height="60" width="60" src= "https://www.svgrepo.com/show/354365/sonarqube.svg" />
- <img height="60" width="60" src= "https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2b63d3a830c56aeafcc618_Veracode_logo.png" />
- <img height="60" width="90" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0284C7&center=true&vCenter=true&width=600&lines=Building+self-service+cloud+products+at+Infosys;AWS+%2B+GCP+%2B+Terraform+Certified;Automation-first+DevOps+%26+API+Development;4%2B+years+across+Healthcare%2C+Pharma+%26+Consulting" alt="Typing SVG" />
+</a>
 
- <img height="60" width="60" src="https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" />
- <img height="60" width="95" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
- <img height="60" width="60" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-</p>
+<br/>
 
-<!--
-<p align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=ritchiepulikottil&show_icons=true&theme=flag-india&count_private=true" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=0284C7)](https://ritchiepulikottil.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0284C7)](https://www.linkedin.com/in/ritchiepulikottil/)
+[![Medium](https://img.shields.io/badge/Medium-0f172a?style=for-the-badge&logo=medium&logoColor=0284C7)](https://ritchiepulikottil.medium.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=x&logoColor=0284C7)](https://twitter.com/itsritchie1005)
+[![dev.to](https://img.shields.io/badge/dev.to-0f172a?style=for-the-badge&logo=devdotto&logoColor=0284C7)](https://dev.to/ritchiepulikottil)
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=0284C7)](https://www.instagram.com/learn.with.rix/)
 
-<!-- <p align=center >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritchiepulikottil" />
-</p>
--->
+</div>
 
-## Projects🚧 
-- [Major Healthcare Project - AstraZeneca](https://www.astrazeneca.com/)<br>
-I was part of the newly formed DaAiOps team at AstraZeneca, focusing on driving Cloud and DevOps initiatives across all projects, with a strong emphasis on Data and GenAI projects. Within the Ops team, my role was centered around automating processes, deploying robust monitoring solutions, and spearheading innovative proof-of-concept initiatives for leadership consideration. Additionally, I took responsibility for provisioning infrastructure and implementing advanced DevOps practices across both new and existing projects throughout AstraZeneca. In Data projects, my focus was on automating data loading, managing data engineering workflows, and establishing comprehensive monitoring and notification systems. For GenAI projects, I designed and implemented CI/CD pipelines to automate deployment activities. My primary technical tools included Python, AWS services, GitHub Actions, and CDK with TypeScript.
-- [Azure Migration Project - ExamWorks](https://www.examworks.com/)<br>
-I was a member of the Core DevOps team at ExamWorks, tasked with facilitating the client's migration from OnPrem VMware to Azure using AVS (Azure VMware Solution) and Azure Bicep, focusing on simplicity and cost-efficiency. My role encompassed two distinct phases, In the initial phase, I collaborated closely with the DevOps architect to develop Azure Bicep templates for the resources required in Azure for the migration. During the second phase, I worked closely with the AVS architect to create Low-Level Designs (LLDs) and High-Level Designs (HLDs), and to configure the cloud environment in preparation for migration using the Azure VMware Solution. My objective throughout was to ensure a seamless transition to Azure while optimizing costs and leveraging efficient deployment methodologies.
-- [Major Healthcare Product - IBM](https://www.ibm.com/consulting/healthcare-services)<br>
-  I was part of Core DevOps team, and I served as a DevOps Developer. It was a healthcare product which served over 50 million patients worldwide and it had multiple modules within it, each module was in fact a standalone application. Initially managing 2 applications, my role encompassed a broad range of DevOps responsibilities. This included building CI/CD pipelines, monitoring, provisioning infrastructure, introducing innovations in the automation side, supporting developers during operational issues, participating in code reviews, ensuring code quality, and deploying changes across DEV, PREPROD, and collaborating with client-side engineers for PROD deployments. Over time, I expanded my responsibilities to oversee 5 applications seamlessly.
-- [Terraform Migration Temp Project - Merative x Virtusa Acquisition](https://cdqm.virtusa.com/)<br>
-I contributed part-time by developing Terraform Templates for Azure resources to support the project's infrastructure needs.
-- [Insite+ (Associated w/ Virtusa)](https://taplink.cc/insiteplus)
-- [TestGrade (Associated w/ Virtusa)](https://testgrade.herokuapp.com/)
-- [CertificateScape (Associated w/ Virtusa)](https://certificatescape.herokuapp.com/) 
-- [Data Legitimacy using ML (Capstone Project)](https://drive.google.com/file/d/1SrqFIxMRMeGJKBkj5IaMB2M_doeazQoM/view)
-- [Personal Expense Tracker (VMware Buildathon'21)](https://drive.google.com/file/d/1LVm9X8QpyMtSUrGgKoB2-wAcYLaywz6n/view?usp=sharing)
-- [JobPortal for the Disabled (Makeathon3077)](https://devfolio.co/submissions/jobportal-for-the-disabled-9be3)
-- [RitchEducate (Freelancing Portfolio Project)](https://heylink.me/RitchEducate/)
-- [Virtual Gaming (Toycathon'21)](https://heylink.me/toycathon/)
-- [Personal Scheduler](http://ip-mini-project-ritchiepulikottil.epizy.com/login.php?i=3)
-- [Quote Generator](https://ritchiepulikottil-quote-generator.netlify.app/)
-- [JSChatbot](https://chatbot-ritchiepulikottil.netlify.app/)
-- [PYChatbot](https://github.com/ritchiepulikottil/chatbot/blob/main/bot.ipynb)
-- [Animal IDS](https://drive.google.com/file/d/1mYOr9OtbE81EH-eb5x_WapbngvwkGU3m/view)
-- [Covid19 Tweet Analysis](https://levelup.gitconnected.com/covid19-tweet-analysis-with-source-code-e916e2871de6)
-- [Face Detection System](https://medium.com/swlh/opencv-basics-for-everybody-b4f0f9a3f619)
-- [Gif Search Engine](https://gif-search-engine-ritchiepulikottil.netlify.app/)
-- [Ping Pong Moblie](https://github.com/ritchiepulikottil/pingpong.apk/raw/master/ritchiepulikottil-0.1-armeabi-v7a-debug.apk)
-- [Stocks Analysis](https://www.kaggle.com/ritchiepulikottil/testing2-extended)
-- [English Dictionary](https://github.com/ritchiepulikottil/english_dictionary)
-- [Online Doodle](http://ritchiepulikottil.pythonanywhere.com/)
-## Achievements🏆
-- <b>Makeathon 2021-Winner</b> (March 2021)<br>
-Makeathon3077- is a 36-hour hackathon for students to challenge their technical boundaries by learning the latest technologies,
-procuring solutions, and developing fun projects. The event intends to bring together astute and industrious students from
-various colleges for a ravishing technical journey consisting of pre-event workshops and boot camp.<br>
-<a href="https://devfolio.co/submissions/jobportal-for-the-disabled-9be3">(View Submission)</a><br>
-<a href="https://drive.google.com/file/d/1ZN9si1l24roHCn6Bxow3iTzj-XvRxDSw/view">(View Certificate)</a>
-  
-- <b>Hackoverflow - Finalist</b> (February 2020)<br>
-National Level 24-Hour Hackathon.<br>
-<a href="https://drive.google.com/file/d/15yDZ2mUEnH7cI-JE-WQV7Ngc2DEm-WSE/view" target="_blank">(View Certificate)</a>
+<br/>
 
-- <b>Innovative Project Cell</b><br>
-Interdepartmental competition to maximize innovation, and create novel products. <br>
-<b>2019:</b> Animal Intrusion Detection System<br>
-<b>2020:</b> Covid19 Tweet Analysis<br>
-<a href="https://github.com/ritchiepulikottil/iot-based-system-to-repel-elephants" target="_blank">(View Submission)</a><Br>
-<a href="https://drive.google.com/file/d/1oeZBfc8MfBcbc0iBlJ-BjsvK_-3IIqQl/view" target="_blank">(View Certificate)</a><br>
-  
+## ⚡ About Me
 
+```bash
+> whoami
+```
 
+- 🛠️&nbsp; **Associate Consultant – Product Engineer** at **Infosys**, building **Cloudflexx** (self-service multi-cloud provisioning) for client **EY**
+- ☁️&nbsp; 4+ years across Cloud, DevOps, DataOps, and API development for healthcare, pharma, and consulting clients
+- 📜&nbsp; **AWS Certified Developer Associate**, **HashiCorp Terraform Associate**, **Google Cloud Associate Cloud Engineer**, Azure AZ-900/SC-900
+- 🏆&nbsp; Infosys Insta Award recipient (May 2026, Dec 2025) for client work on the EY engagement
+- ✍️&nbsp; Write technical content for **Towards Data Science** and **MLearning.ai**
+- 🚀&nbsp; Building **RIXSTO** — a multi-creator storefront & affiliate tooling platform on the side
+- 🧑‍🏫&nbsp; Mentor on **Exercism**, helping others learn to code for free
 
-## Publications📝
-- <b> Animal IDS </b><br>
-IOT based system to reduce human-animal conflict.<Br>
-<a href="https://drive.google.com/file/d/1mYOr9OtbE81EH-eb5x_WapbngvwkGU3m/view" target="_blank">(View Journal)</a>
-  
-  
-## Certifications and Badges⭐
-- [Google Cloud - Associate Cloud Engineer](https://googlecloudcertified.credential.net/profile/3ba40cd4ed0ada387eab04c6068a5b60c9f2f9a2?order=updated_at%20DESC)
-- [HashiCorp - Terraform Associate](https://ritchiepulikottil.github.io/mnc.github.io/)
-- [Microsoft - AZ900](https://ritchiepulikottil.github.io/mnc.github.io/)
-- [IBM Cognitive Class - Cloud Essentials](https://courses.cognitiveclass.ai/certificates/dc15c89825164a3db111594d33733370)
-- [IBM - Data Science Professional Certificate](https://www.credly.com/badges/e30adbc8-1788-4cdf-b682-0fce65de1ac3/public_url)
-- [IBM Developer Skills Network - Cloud Core](https://www.credly.com/badges/31b383bd-ac35-4590-a0e5-fe313b1aea02/public_url)
-- [IBM Developer SKills Network - Cloud Essentials](https://www.credly.com/badges/c2756c7c-d326-48d2-af89-0439e04a69d2/public_url)
-- [Cloud Engineering with Google Cloud Professional Certificate](https://drive.google.com/file/d/1mYns059gjweEK_3-CTQnIuES6oPCq0cm/view)
-- [Cloud Architecture with Google Cloud Professional Certificate](https://drive.google.com/file/d/1RNFcy-0PkmNe8yGjaIr3vauatjANuDPs/view)
-- [Architecting with Google Compute Engine Specialization](https://drive.google.com/file/d/1jLZOycUXoN7OlNkfV_8mUpPa0WAzqPBa/view)
-- [From Data to Insights with Google Cloud Platform](https://drive.google.com/file/d/177U3RW-FG5tzANCfKgargdwyk9qFC9pS/view)
-- [Innovative Project Cell](https://drive.google.com/file/d/1oeZBfc8MfBcbc0iBlJ-BjsvK_-3IIqQl/view)
-- [Makeathon3077 Microsoft TIET 34hr Hackathon](https://drive.google.com/file/d/1ZN9si1l24roHCn6Bxow3iTzj-XvRxDSw/view)
-- [View more...](https://linktr.ee/ritchiepulikottil.certificates)
+<br/>
 
-  
-## Experience💼 
-- <b> DevOps Engineer - IBM WH Phytel (Associated w/ Virtusa) </b><br>(Jan 2023 - Present)<br>
-  <a>https://www.merative.com/phytel-university/</a>  
-- <b> Associate Engineer - Virtusa </b><br>(May 2022 - Present)<br>
-  <a>https://www.virtusa.com/</a>  
-- <b> Cloud Engineering Intern - Virtusa </b><br>(January 2022 - April 2022)<br>
-  <a>https://www.virtusa.com/</a>
-- <b> Research and Development Intern - DDL </b><br>(May 2021 - August 2021)<br>
-  <a>https://www.doorstepdelhi.com/</a>  
- 
-  
-## Volunteering🙋‍♂️
-- <b>Mentor - Exercism</b> (May 2022 - Present)<br>
-Exercism is a not-for-profit organisation providing world-class programming education to anyone for free. The platform is centred around self-directed learning and volunteer mentoring, and has nearly one million members.<br>
- <a>https://exercism.org/</a>
-  
-- <b>Content Writer - GitConnected</b> (October 2020 - Present)<br>
-gitconnected was created with a simple goal in mind: provide a platform for developers and software engineers to share knowledge, connect, collaborate, and learn.<br> <a>https://levelup.gitconnected.com/</a>
-  
-- <b>Content Writer - Data Driven Investor</b> (December 2020 - Present)<br>
-Data Driven Investor, is dedicated to uncovering how ordinary people can best utilize data to make those decisions. Whether through analytical tools, educational content or expert opinions, the focus is to help you leverage data to take matters into your own hands, and ultimately become a better, more empowered investor.<br> <a>https://www.signalhire.com/profiles/ritchie-pulikottil/</a>
-  
-- <b>Content Writer - Towards Data Science</b> (January 2021 - Present)<br>
-Towards Data Science provides a platform for thousands of people to exchange ideas and to expand the understanding of data science.<br> <a>https://towardsdatascience.com/</a>
-  
-- <b>Content Writer - Machine Learning</b> (March 2021 - Present)<br>
-MLearning.ai is a platform for machine learning art solutions with the intention to make the creative industries more productive. The platform offers a marketplace for machine learning-driven creative services with a step-by-step solution to transform the process of creating and designing. <br>
-<a>https://medium.com/mlearning-ai/</a>
-  
-- <b>Content Writer - In Plain English</b> (May 2021 - Present)<br>
-In Plain English is a tech-focused media company founded in 2018. Mission is to democratize the learning space. Currently a community of 10,000+ writers and 20,000+ articles.<br>
-<a>https://plainenglish.io/</a>
-  
-- <b>Data Coordinator - United to Fight Corona (UTFC)</b> (May 2021 - August 2021)<br>
-Unite to Fight Corona is a Community of 500+ Members across India. UTFC is formed by youths and recruits youths to help India overcome the unprecedented times. I was given the opportunity to gather verified information regarding hospital beds, medications, vaccinations, and anything related to Covid-19 in case of an emergency 24/7. It was a wonderful and challenging experience. Feel free to reach out to me anytime, if you are someone who's interested in volunteering for such a cause, Do visit our site for more information!<br>
-<a href="https://unitetofightcorona.in/">https://unitetofightcorona.in/</a><br>
-  
-- <b>Data Analyst - iVolunteer</b> (March 2021)<br>
-iVolunteer delivers impact in 12 social development areas - Education, Poverty Alleviation, Environment, Health, HIV-AIDS, Gender Equality, Human Rights, Disability, Youth Welfare, Elderly Welfare, Child Welfare & Active Citizenship. It achieves its mission by working closely with these volunteers at one end and with organizations that work on these impact areas at the other end. I was given the opportunity to conduct exploratory data analysis and predictive analytics on the user transactions occurring at the workplace during the unfortunate Covid19 pandemic. We were also assigned a team of four to fabricate a plan, carry out prioritization & impact assessment, restructure the user journey while the user is involved in a transaction, and analyze the resultant outcomes.<br>
-<a href="https://www.ivolunteer.in/">http://ivolunteer.in/</a><br>
-  
-- <b>Development Volunteer - CoviQuick Relief Force</b> (March 2021)<br>
-CoviQuick aims at providing verified and accurate information regarding the resources relating to Covid-19. I was given the opportunity to provide ideas to develop the portal and market the strategies through all kinds of media.<br>
-<a href="http://coviquick.cf/">http://coviquick.cf/</a><br>
-  
-- <b>Beta Tester - MacAppStudio</b> (July 2021)<br>
-Pepul is the new age safest social network, where people share their beautiful life stories and skills. Their hyperlocal model helps people to connect safely without a fear, with nearby like-minded people, and create their communities in real life.<br>I was given an amazing opportunity to be one in the thousands by Suresh Kumar G in their initial beta testings, to test the platform thoroughly before it reaches the market.<br> 
-<a>https://www.pepul.com/</a>
-  
-- <b>Developer Program Member - GitHub</b><br>
-Build tools that integrate with GitHub.<br>
-<a>https://github.com/ritchiepulikottil/</a>
-  
-- <b>Software Tester - PlaytestCloud</b><br>
-PlayTestCloud was created to help the game developers learn more about what players think about their games and if there are any issues that need to be addressed. For me, it continues to be a fun opportunity and a subtle side hustle.<br>
-<a>https://www.playtestcloud.com/</a>
-  
-  
+## 💼 Experience
 
-  
-  
+<table>
+<tr>
+<td width="16%"><b>Jan 2025 – Present</b></td>
+<td><b>Infosys</b> — Associate Consultant, Product Engineer <sub>(client: EY)</sub><br/>Owning end-to-end development of Cloudflexx: multi-cloud provisioning (AWS/GCP/IBM federated with Azure), an incident-response feature for isolating cloud resources during security events, and automated vulnerability remediation — cutting deployment lead time from days to minutes across 1,000+ daily requests.</td>
+</tr>
+<tr>
+<td><b>Jan 2024 – Dec 2024</b></td>
+<td><b>Virtusa</b> — Senior DataOps Engineer <sub>(client: AstraZeneca)</sub><br/>Automated monitoring & infra provisioning (−30% cost, −90% manual workload), drove org-wide IaC adoption (+80% deploy efficiency), and maintained 98% cloud compliance.</td>
+</tr>
+<tr>
+<td><b>May 2022 – Dec 2023</b></td>
+<td><b>Virtusa</b> — Associate Engineer, DevOps <sub>(client: IBM Phytel)</sub><br/>Led a team of 5 on a cloud-native revamp of a major patient-engagement healthcare product; built Terraform/Bicep IaC for the full product infra and cut deployment times by 80%.</td>
+</tr>
+<tr>
+<td><b>May 2021 – Aug 2021</b></td>
+<td><b>DoorstepDelhi</b> — Cloud Engineering R&D Intern</td>
+</tr>
+</table>
 
+<br/>
 
+## 🧰 Tech Stack
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,terraform,jenkins,git,githubactions,powershell,py,js,ts,php,mysql,postgres,docker&theme=dark" />
 
+</div>
 
+<br/>
 
+## 📊 GitHub Analytics
 
+<div align="center">
 
-## Blogs📖
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ritchiepulikottil&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0284C7&icon_color=0284C7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritchiepulikottil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0284C7" />
 
-- [Python for Beginners (Part 1)](https://python.plainenglish.io/python-for-beginners-part-1-e044f603900b)
-- [Python for Beginners (Part 2)](https://python.plainenglish.io/python-for-beginners-part-2-7006696e1b40)
-- [Python for Beginners (Part 3)](https://python.plainenglish.io/python-for-beginners-part-3-1972a8734309)
-- [Data Analytics Essentials](https://medium.com/swlh/data-analytics-essentials-8797294a583a)
-- [Covid19 Tweet Analysis](https://levelup.gitconnected.com/covid19-tweet-analysis-with-source-code-e916e2871de6)
-- [What are the best ways to learn web development?](https://levelup.gitconnected.com/what-are-the-good-ways-to-learn-web-development-cf7d5e6b7a6e)
-- [em, rem, and px](https://levelup.gitconnected.com/em-rem-and-px-e147619c26ee)
-- [How Does the Internet Actually Work?](https://medium.datadriveninvestor.com/how-does-the-internet-actually-work-c623a0c7214a)
-- [Basic Statistics for Data Analysis With Python](https://medium.com/swlh/basic-statistics-for-data-analysis-with-python-3db2a930a433)
-- [OpenCV Basics for Everybody](https://medium.com/swlh/opencv-basics-for-everybody-b4f0f9a3f619)
-- [Beginner’s Guide to Linux](https://levelup.gitconnected.com/beginners-guide-to-linux-f86a5782670e)
-- [Networking Basics](https://medium.com/swlh/networking-basics-7abcd66fa74d)
-- [Operating System Basics](https://levelup.gitconnected.com/operating-system-basics-ad8d9d5de2a0)
-- [CSS Basics for Absolute Beginners](https://medium.com/swlh/css-basics-for-absolute-beginners-12780a56c8bf)
-- [HTML Basics for Absolute Beginners](https://medium.com/swlh/html-basics-for-absolute-beginners-c0172b3d9b7c)
-- [View more...](https://ritchiepulikottil.medium.com/)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritchiepulikottil&theme=tokyonight&hide_border=true&background=0d1117&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" />
 
+</div>
 
+<br/>
 
+## 🏆 Trophies
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ritchiepulikottil&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 
+<br/>
 
-## Let's Connect🤗
-[<img src="https://img.shields.io/badge/aboutme-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />](https://ritchiepulikottil.netlify.app/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ritchiepulikottil/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ritchiepulikottil/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/itsritchie1005)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://ritchiepulikottil.medium.com/)
-[<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />](https://ritchiepulikottil.blogspot.com/)
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/ritchiepulikottil)
+## 🚀 Featured Projects
 
+| Project | Description |
+|---|---|
+| **[RIXSTO](https://rixsto.in/shop)** | Multi-creator product storefront with custom affiliate tooling, built on Eleventy/Nunjucks |
+| **[JobPortal for the Disabled](https://devfolio.co/submissions/jobportal-for-the-disabled-9be3)** | 🏆 Makeathon 2021 winning submission |
+| **[Covid19 Tweet Analysis](https://levelup.gitconnected.com/covid19-tweet-analysis-with-source-code-e916e2871de6)** | Sentiment & trend analysis on pandemic-era tweet data |
+| **[Animal IDS](https://drive.google.com/file/d/1mYOr9OtbE81EH-eb5x_WapbngvwkGU3m/view)** | IoT-based system to reduce human-animal conflict |
 
+<br/>
 
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ritchiepulikottil&color=1f425f"></img>
+<img src="https://komarev.com/ghpvc/?username=ritchiepulikottil&color=0284C7&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>

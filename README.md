@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Ritchie%20Pulikottil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%2F%20DevOps%20%2F%20API%20Development&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0284C7&center=true&vCenter=true&width=600&lines=Building+self-service+cloud+products+at+Infosys;AWS+%2B+GCP+%2B+Terraform+Certified;Automation-first+DevOps+%26+API+Development;4%2B+years+across+Healthcare%2C+Pharma+%26+Consulting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=0284C7&center=true&vCenter=true&width=750&lines=Building+RIXSTO+-+a+multi-creator+storefront;AWS+%2B+GCP+%2B+Terraform+Certified;Automation-first+DevOps+%26+API+Development;4%2B+years+across+Healthcare%2C+Pharma+%26+Consulting" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,12 +25,12 @@
 > whoami
 ```
 
-- 🛠️&nbsp; **Associate Consultant – Product Engineer** at **Infosys**, building **Cloudflexx** (self-service multi-cloud provisioning) for client **EY**
+- 🛠️&nbsp; **Associate Consultant – Product Engineer** at **Infosys**, building **Cloudflexx** (self-service multi-cloud provisioning)
 - ☁️&nbsp; 4+ years across Cloud, DevOps, DataOps, and API development for healthcare, pharma, and consulting clients
 - 📜&nbsp; **AWS Certified Developer Associate**, **HashiCorp Terraform Associate**, **Google Cloud Associate Cloud Engineer**, Azure AZ-900/SC-900
 - 🏆&nbsp; Infosys Insta Award recipient (May 2026, Dec 2025) for client work on the EY engagement
 - ✍️&nbsp; Write technical content for **Towards Data Science** and **MLearning.ai**
-- 🚀&nbsp; Building **RIXSTO** — a multi-creator storefront & affiliate tooling platform on the side
+- 🚀&nbsp; Building **RIXSTO**
 - 🧑‍🏫&nbsp; Mentor on **Exercism**, helping others learn to code for free
 
 <br/>
@@ -81,19 +81,13 @@
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ritchiepulikottil&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
-<br/>
 
 ## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| **[RIXSTO](https://rixsto.in/shop)** | Multi-creator product storefront with custom affiliate tooling, built on Eleventy/Nunjucks |
+| **[RIXSTO](https://rixsto.in/)** | Multi-creator product storefront with custom affiliate tooling, built on Eleventy/Nunjucks |
 | **[JobPortal for the Disabled](https://devfolio.co/submissions/jobportal-for-the-disabled-9be3)** | 🏆 Makeathon 2021 winning submission |
 | **[Covid19 Tweet Analysis](https://levelup.gitconnected.com/covid19-tweet-analysis-with-source-code-e916e2871de6)** | Sentiment & trend analysis on pandemic-era tweet data |
 | **[Animal IDS](https://drive.google.com/file/d/1mYOr9OtbE81EH-eb5x_WapbngvwkGU3m/view)** | IoT-based system to reduce human-animal conflict |
